@@ -1,0 +1,1 @@
+The license of this software is contained within the LICENSE file.

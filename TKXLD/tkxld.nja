@@ -1,0 +1,6 @@
+{
+  "venv": "/home/xiaolong/development/anaconda3/envs/tkxld/bin/python", 
+  "name": "TKXLD", 
+  "license": "GNU General Public License v3", 
+  "description": "This project is a tkinter implementation of Xiaolong Dictionary"
+}
